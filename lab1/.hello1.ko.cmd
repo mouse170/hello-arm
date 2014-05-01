@@ -1,0 +1,1 @@
+cmd_/home/u24e/Development/mini2440/lab1/hello1.ko := ld -r -m elf_x86_64 -T /usr/lib/modules/3.14.1-1-ARCH/build/scripts/module-common.lds --build-id  -o /home/u24e/Development/mini2440/lab1/hello1.ko /home/u24e/Development/mini2440/lab1/hello1.o /home/u24e/Development/mini2440/lab1/hello1.mod.o
